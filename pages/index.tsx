@@ -38,7 +38,7 @@ const IndexPage = () => {
             Kits Concepts
           </button>
         </Link>
-        <Link href="/iphones">
+        {/* <Link href="/iphones">
         <button className=" pointer z-10 mt-6 rounded-lg border border-[1px] border-[#888888 ]bg-transparent hover:bg-[#fff]  p-4 rounded-lg text-[#fff] hover:text-[#000] transition duration-100 ease-in-out text-center"
                   style={{ width: '200px' }}
           >
@@ -51,7 +51,7 @@ const IndexPage = () => {
           >
             FIFA Concepts
           </button>
-        </Link>
+        </Link> */}
 
       </div>
     </div>
